@@ -1,0 +1,11 @@
+{
+  "version": "0.22",
+  "release_date": "2025-10-27",
+  "changelog": "- Trial License added (TelegramBot)\n- License error message fixed",
+  "update_url": "https://rolosoft.pro/updates/rolo_search/",
+  "update_type": "zip",
+  "update_file": "update.zip",
+  "delete_files": [
+    "RoLo_Search_v02.exe"
+  ]
+}

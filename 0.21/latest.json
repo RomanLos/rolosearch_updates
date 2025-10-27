@@ -1,0 +1,11 @@
+{
+  "version": "0.21",
+  "release_date": "2025-10-26",
+  "changelog": "- Fixed license dialog\n- Added clickable website link\n- Improved icon quality\n- Performance improvements",
+  "update_url": "https://rolosoft.pro/updates/rolo_search/",
+  "update_type": "zip",
+  "update_file": "update.zip",
+  "delete_files": [
+    "RoLo_Search_v02.exe"
+  ]
+}
