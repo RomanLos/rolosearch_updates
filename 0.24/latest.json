@@ -1,7 +1,7 @@
 {
   "version": "0.24",
   "release_date": "2025-11-03",
-  "changelog": "- PDF Converter added\n- !!! WARNINGS !!!  Download and Save new AI model groundingdino_swint_ogc.pth to cache\\models\\grounding_dino\\",
+  "changelog": "- PDF Converter added\n- !!! WARNINGS !!!  https://t.me/rolosearch/14 Download and Save new AI model groundingdino_swint_ogc.pth to cache\\models\\grounding_dino\\",
   "update_url": "https://rolosoft.pro/updates/rolo_search/",
   "update_type": "zip",
   "update_file": "update.zip",
